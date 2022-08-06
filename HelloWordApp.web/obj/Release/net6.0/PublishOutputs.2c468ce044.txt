@@ -1,0 +1,7 @@
+E:\Devloppement\Training devops_ci_cd\S0E0\HelloWorkdApp\HelloWordApp.web\bin\Release\net6.0\publish\HelloWordApp.web.exe
+E:\Devloppement\Training devops_ci_cd\S0E0\HelloWorkdApp\HelloWordApp.web\bin\Release\net6.0\publish\appsettings.Development.json
+E:\Devloppement\Training devops_ci_cd\S0E0\HelloWorkdApp\HelloWordApp.web\bin\Release\net6.0\publish\appsettings.json
+E:\Devloppement\Training devops_ci_cd\S0E0\HelloWorkdApp\HelloWordApp.web\bin\Release\net6.0\publish\HelloWordApp.web.dll
+E:\Devloppement\Training devops_ci_cd\S0E0\HelloWorkdApp\HelloWordApp.web\bin\Release\net6.0\publish\HelloWordApp.web.deps.json
+E:\Devloppement\Training devops_ci_cd\S0E0\HelloWorkdApp\HelloWordApp.web\bin\Release\net6.0\publish\HelloWordApp.web.runtimeconfig.json
+E:\Devloppement\Training devops_ci_cd\S0E0\HelloWorkdApp\HelloWordApp.web\bin\Release\net6.0\publish\HelloWordApp.web.pdb
